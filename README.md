@@ -7,10 +7,10 @@ Welcome to the Realtime Currency Converter App repository! This application allo
 ![CurrencyConverter](https://github.com/iamyazdani/realtime-currency-converter/assets/91947411/8c2d6a8d-170a-47be-9b54-8fa29f3eea76)
 
 ## Features:
-- **Real-time Currency Conversion:** Utilizes the Fetch API to fetch current exchange rates, ensuring accurate conversions.
+- **Real-time Currency Conversion:** Utilizes the `Fetch API` to fetch current exchange rates, ensuring `accurate conversions`.
 - **Supports Multiple Currencies:** Offers a wide range of currencies for conversion.
-- **User-friendly Interface:** Simple and intuitive UI for smooth user experience.
-- **Cross-platform Compatibility:** Compatible with different devices and browsers.
+- **User-friendly Interface:** `Simple and intuitive UI` for smooth user experience.
+- **Cross-platform Compatibility:** `Compatible` with different `devices` and `browsers`.
 
 ## Usage:
 To use the Realtime Currency Converter App, follow these steps:
